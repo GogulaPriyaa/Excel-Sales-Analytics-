@@ -29,6 +29,7 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 **Role of reports**: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 **Technical Skills Gained:**
+
 	Proficiency in ETL methodology (Extract, Transform, Load).
 
 	Skills to generate a date table using Power Query.
@@ -42,6 +43,7 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 	Utilizing DAX to create calculated columns.
 
 **Soft Skills Gained:**
+
 	Refined understanding of Sales & Finance Reports
 
 	Designing user-centric reports with empathy in mind.
