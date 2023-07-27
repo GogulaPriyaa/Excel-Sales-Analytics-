@@ -5,7 +5,7 @@ Sales Report:**
 
 1. Create a [Customer Performance Report](https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/Customer%20Performance%20Report.pdf)
 
-2. Conduct a comprehensive comparison between Market Performance vs Sales Targets (https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+2. Conduct a comprehensive comparison between [Market Performance vs Sales Targets](https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -16,13 +16,13 @@ Importance of analyzing sales data: Identify sales patterns and track key perfor
 **Finance Report:
 Project objective:**
 
-1. Create Profit and Loss (P&L) report by Fiscal Year (https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
+1. Create Profit and Loss (P&L) report by [Fiscal Year](https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/P%26L%20by%20Fiscal%20Year.pdf)) 
 
-2. Create Profit and Loss (P&L) report by Month (https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/P%26L%20by%20Month.pdf)
+2. Create Profit and Loss (P&L) report by [Month](https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/P%26L%20by%20Month.pdf) 
 
-3. Create Profit and Loss (P&L) reports by Markets (https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/P%26L%20by%20Markets.pdf)
+3. Create Profit and Loss (P&L) reports by [Markets](https://github.com/GogulaPriyaa/Excel-Sales-Analytics-/blob/main/P%26L%20by%20Markets.pdf) 
 
-**Purpose of Sales Analytics**: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+**Purpose of Finance Analytics**: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
