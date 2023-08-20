@@ -1,5 +1,8 @@
-**Sales Report & Finance Report for AtliQ Hardware
-Sales Report:**
+Sales Report & Finance Report for AtliQ Hardware
+
+Sales Description Video: [Link](https://youtu.be/UYM6pP8QGDU)
+
+**Sales Report:**
 
 **Project objective:**
 
@@ -27,6 +30,21 @@ Project objective:**
 Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 **Role of reports**: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+AtliQ is a company that manufactures & sells it's products all over the globe .
+
+Here are a few Key insights that I have extracted from these reports
+
+1.Amazon top's the chart in terms of net sales in year 2021.Consumers are happy to buy products directly from AtliQ whether it's Exclusive or e-store 
+
+2.AtliQ had aggressively set the targets for 2021. That tells us why the market performance hasn't up to the mark. Japan is the one that came close towards achieving the target
+
+3.AQ Electron 4 3600 Desktop processor had generated the most sales in both 20 & 21. While 2021 sales of AQ smash 2 & AQ Mx NB had grown substantially
+
+4.Coming to Division level "P & A" holds nearly half of the market. There is a significant improvement in sales for "PC" over 300%.
+
+5.Almost every new product had made good amount of sales.
+
+6.India 🇮🇳 is a good place for selling products & AtliQ have made sure that by getting over 1/3 of it's net sales 2021. USA 🇺🇲 & South Korea 🇰🇷 are the next in line.
 
 **Technical Skills Gained:**
 
@@ -41,6 +59,8 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 	Proficiency in incorporating supplementary data into an existing data model.
 
 	Utilizing DAX to create calculated columns.
+
+ Xlookup, Vlookup,Index Match to Join Tables
 
 **Soft Skills Gained:**
 
