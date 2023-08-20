@@ -44,7 +44,7 @@ Here are a few Key insights that I have extracted from these reports
 
 5.Almost every new product had made good amount of sales.
 
-6.India 🇮🇳 is a good place for selling products & AtliQ have made sure that by getting over 1/3 of it's net sales 2021. USA 🇺🇲 & South Korea 🇰🇷 are the next in line.
+6.India  is a good place for selling products & AtliQ have made sure that by getting over 1/3 of it's net sales 2021. USA  & South Korea  are the next in line.
 
 **Technical Skills Gained:**
 
